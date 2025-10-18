@@ -90,10 +90,10 @@ export default function ContactPage() {
                   <div>
                     <p className="text-gray-400 text-sm">Email</p>
                     <a
-                      href="mailto:contact.niloybhowmick@gmail.com"
+                      href="mailto:shehabuddininfo00@gmail.com"
                       className="text-white hover:text-blue-400 transition-colors"
                     >
-                      contact.niloybhowmick@gmail.com
+                      shehabuddininfo00@gmail.com
                     </a>
                   </div>
                 </div>
@@ -110,7 +110,7 @@ export default function ContactPage() {
                       rel="noopener noreferrer"
                       className="text-white hover:text-green-400 transition-colors"
                     >
-                      +88 (015) 803-85556
+                      +88 (013) 150-67707
                     </a>
                   </div>
                 </div>
