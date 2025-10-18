@@ -25,7 +25,7 @@ export default function AboutPage() {
             About Me
           </h1>
           <p className="text-gray-300 text-lg max-w-3xl mx-auto">
-            Hey there! I'm Niloy Bhowmick, a passionate Video Editor and Motion
+            Hey there! I'm Ariyan Shehab, a passionate Video Editor and Motion
             Graphics Designer with a deep love for storytelling through visuals.
           </p>
         </motion.div>
@@ -41,14 +41,14 @@ export default function AboutPage() {
               <div className="text-center">
                 <div className="relative w-64 h-64 mx-auto mb-6">
                   <Image
-                    src="/niloybhowmick.png"
-                    alt="Niloy Bhowmick"
+                    src="/ariyan-shehab.png"
+                    alt="Ariyan Shehab"
                     fill
                     className="rounded-full object-cover"
                   />
                 </div>
                 <h2 className="text-2xl font-bold mb-2 text-white">
-                  Niloy Bhowmick
+                  Ariyan Shehab
                 </h2>
                 <p className="text-blue-400 mb-4">
                   Video Editor & Motion Graphics Designer
