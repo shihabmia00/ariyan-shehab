@@ -16,17 +16,17 @@ export default function Footer() {
   const socialLinks = [
     {
       name: "YouTube",
-      href: "https://www.youtube.com/@itsniloybhowmick",
+      href: "https://www.youtube.com/@dekho-banglay",
       icon: Youtube,
     },
     {
       name: "Instagram",
-      href: "https://instagram.com/its.niloybhowmick",
+      href: "https://www.instagram.com/ariyan_shehab_smm?igsh=MXM4emI2dWF2Yjd6OA==",
       icon: Instagram,
     },
     {
       name: "LinkedIn",
-      href: "https://www.linkedin.com/in/niloy-bhowmick",
+      href: "https://www.linkedin.com/in/shehab-uddin-3740732b5/",
       icon: Linkedin,
     },
     {
@@ -36,7 +36,7 @@ export default function Footer() {
     },
     {
       name: "Email",
-      href: "mailto:contact.niloybhowmick@gmail.com",
+      href: "mailto:shehabuddininfo00@gmail.com",
       icon: Mail,
     },
   ];
@@ -113,7 +113,7 @@ export default function Footer() {
           <p className="text-gray-400 text-sm flex items-center justify-center gap-1">
             Made with <Heart className="text-red-500" size={16} /> by{" "}
             <a
-              href="https://www.linkedin.com/in/mdmarufsarker/"
+              href="https://www.linkedin.com/in/shehab-uddin-3740732b5/"
               target="_blank"
               rel="noopener noreferrer"
             >
