@@ -47,7 +47,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-8">
           {/* Brand */}
           <div className="space-y-4">
-            <h3 className="text-xl font-bold">Niloy Bhowmick</h3>
+            <h3 className="text-xl font-bold">Ariyan Shehab</h3>
             <p className="text-gray-400 text-sm">
               Video Editor and Motion Graphics Designer passionate about
               creating visual stories with style, precision, and cinematic
