@@ -48,6 +48,15 @@ export const videoEditingSkills = [
     description: "Audio editing, noise reduction, and sound enhancement",
     color: "text-green-400",
   },
+  {
+    name: "Capcut Pro",
+    image_link: "/tools/capcut.png",
+    icon: Volume2,
+    description: "Noise reduction, Color Gradibg, BG Change etc.",
+    color: "text-green-400",
+  },
+  
+  
 ];
 
 export const specializations = [
