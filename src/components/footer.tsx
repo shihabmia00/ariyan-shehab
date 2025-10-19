@@ -117,7 +117,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Md. Maruf Sarker
+              Ariyan Shehab
             </a>{" "}
             © {currentYear}
           </p>
