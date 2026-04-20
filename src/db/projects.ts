@@ -15,7 +15,7 @@ export const allVideoProjects: VideoProject[] = [
     project_images: [],
     category: ["Talking Head", "Explainer"],
     duration: "6:32",
-    software_used: ["DaVinci Resolve"],
+    software_used: ["Premier Pro, After Effects"],
   },
   {
     id: "JSZmQxg3fos",
@@ -32,7 +32,7 @@ export const allVideoProjects: VideoProject[] = [
     project_images: [],
     category: ["Talking Head", "Explainer"],
     duration: "10:12",
-    software_used: ["Davinci Resolve", "After Effects"],
+    software_used: ["Premier Pro, After Effects"],
   },
   {
     id: "ufRtWGd0cXo",
@@ -49,7 +49,7 @@ export const allVideoProjects: VideoProject[] = [
     project_images: [],
     category: ["Talking Head", "Explainer"],
     duration: "7:18",
-    software_used: ["Davinci Resolve"],
+    software_used: ["Premier Pro, After Effects"],
   },
   {
     id: "7OuSRaIPOds",
@@ -66,7 +66,7 @@ export const allVideoProjects: VideoProject[] = [
     project_images: [],
     category: ["Talking Head", "Explainer"],
     duration: "8:13",
-    software_used: ["Davinci Resolve"],
+    software_used: ["Premier Pro, After Effects"],
   },
   {
     id: "esjJzKjx9Fo",
@@ -82,7 +82,7 @@ export const allVideoProjects: VideoProject[] = [
     project_images: [],
     category: ["Talking Head", "Explainer"],
     duration: "7:59",
-    software_used: ["Davinci Resolve"],
+    software_used: ["Premier Pro, After Effects"],
   },
   {
     id: "Qwwgg_qt5ew",
@@ -150,7 +150,7 @@ export const allVideoProjects: VideoProject[] = [
     project_images: [],
     category: ["Shorts", "Promo"],
     duration: "1:11",
-    software_used: ["Davinci Resolve", "After Effects"],
+    software_used: ["Premier Pro, After Effects"],
   },
   {
     id: "wBrkYeMlh1U",
@@ -167,7 +167,7 @@ export const allVideoProjects: VideoProject[] = [
     project_images: [],
     category: ["Shorts", "Promo"],
     duration: "1:09",
-    software_used: ["Davinci Resolve", "After Effects"],
+    software_used: ["Premier Pro, After Effects"],
   },
   {
     id: "A7O_MV3mgsI",
@@ -184,7 +184,7 @@ export const allVideoProjects: VideoProject[] = [
     project_images: [],
     category: ["Shorts", "Promo"],
     duration: "1:21",
-    software_used: ["Davinci Resolve", "After Effects"],
+    software_used: ["Premier Pro, After Effects"],
   },
   {
     id: "kpJyIq-mvtc",
@@ -261,7 +261,7 @@ export const allVideoProjects: VideoProject[] = [
     project_images: [],
     category: ["Explainer", "Motion Graphics"],
     duration: "2:43",
-    software_used: ["Davinci Resolve"],
+    software_used: ["Premier Pro, After Effects"],
   },
   {
     id: "i2JZPZ-a_tc",
@@ -373,6 +373,6 @@ export const allVideoProjects: VideoProject[] = [
     project_images: [],
     category: ["Talking Head", "Explainer"],
     duration: "8:22",
-    software_used: ["Davinci Resolve"],
+    software_used: ["Premier Pro, After Effects"],
   },
 ];
